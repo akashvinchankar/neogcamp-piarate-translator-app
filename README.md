@@ -1,5 +1,5 @@
-# neogcamp-piarate-translator-app
-### NeogCamp Mark 7 Assignment 
+# piarate-translator-app
+
 
 This is project is for the ones who are pirates of carabian enthusiast and are curious about their language in which they talk. 
 
@@ -10,3 +10,4 @@ The stack used :
 1. HTML
 2. CSS
 3. JavaScript
+4. Pirate Language API
